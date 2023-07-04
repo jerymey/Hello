@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h3><b>Hello World</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -19,6 +19,7 @@
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
