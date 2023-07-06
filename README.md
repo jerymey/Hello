@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [HELLO MICROVERSE] <a name="about-project"></a>
 
 **[Hello Microverse]** is The first project of the Microverse Program which includes creating linters, branching, monitoring github workflow and customize the readme file.
 
