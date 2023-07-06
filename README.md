@@ -19,6 +19,8 @@
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
@@ -99,6 +101,13 @@ Feel free to check the [issues page](https://github.com/jerymey/My-portfolio/iss
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] Add my new projects
+- [ ] make it ready for deployment
+- [ ] Integration with Javascript
+- [ ] Adding more html contents
 
 ## 🤝 Contributing <a name="contributing"></a>
 
